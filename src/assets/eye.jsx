@@ -1,4 +1,4 @@
-const eye = () => {
+const openEye = () => {
     return (
         <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path d="M12.9833 10.0009C12.9833 11.6509 11.6499 12.9842 9.99993 12.9842C8.34993 12.9842 7.0166 11.6509 7.0166 10.0009C7.0166 8.35091 8.34993 7.01758 9.99993 7.01758C11.6499 7.01758 12.9833 8.35091 12.9833 10.0009Z" stroke="#5D7593" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
@@ -7,4 +7,4 @@ const eye = () => {
     );
 }
 
-export default eye;
+export default openEye;
